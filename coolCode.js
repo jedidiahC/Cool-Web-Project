@@ -6,5 +6,5 @@ if (jedi === kumamon)
 {
     console.log("KUMAMOOOONNNNNNNN");
 } else {
-    console.log("Jedi is luke skywalker")
+    console.log("Jedi is luke skywalker");
 }
