@@ -1,0 +1,9 @@
+{
+    "name": "cool-web-project",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.16.4",
+        "nodemon": "~1.18.9",
+        "angular": "~1.7.6"
+    }
+}
